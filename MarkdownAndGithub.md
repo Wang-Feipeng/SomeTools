@@ -44,3 +44,9 @@
 > upload files
 
 * 第三步：创建一个文件.md
+
+# 为github markdown文件生成目录
+
+在开通写\[TOC]，在下方书写标题，即可生成目录索引。
+
+
